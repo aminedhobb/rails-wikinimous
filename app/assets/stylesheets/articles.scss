@@ -1,0 +1,16 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.article-box {
+  margin-bottom: 20px;
+  h2{
+    color: #1F5378;
+  }
+}
+
+.article-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
